@@ -13,12 +13,6 @@ The project focuses on the design and CFD-based analysis of a heat-integrated os
 - Identify key geometric and operating parameters for reactor optimization.
 - Progress toward generating simulation data for Response Surface Methodology (RSM) and ANN-based predictive modeling.
 
-## Repository Updates
-
-- Added the initial project README and documentation.
-- Defined the project objectives and proposed methodology.
-- Created the repository structure for future simulation files, datasets, code, and results.
-- Documented the planned CFD, RSM, and ANN-based optimization workflow.
 
 ## Planned Work
 
