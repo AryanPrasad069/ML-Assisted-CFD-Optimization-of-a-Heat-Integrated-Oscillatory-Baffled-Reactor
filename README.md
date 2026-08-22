@@ -1,7 +1,5 @@
 ## Summary
 
-This pull request initializes the repository for the B.Tech. project:
-
 **AI-Assisted CFD Optimization of a Heat-Integrated Oscillatory Baffled Reactor**
 
 The project focuses on the design and CFD-based analysis of a heat-integrated oscillatory baffled reactor using perforated twisted baffles for process intensification.
